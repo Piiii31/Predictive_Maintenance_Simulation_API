@@ -11,6 +11,10 @@ This repository contains a Flask-based API that simulates predictive maintenance
 - **Anomaly Detection**: The API identifies normal and anomalous drives based on the reconstruction error from the autoencoder.
 - **Output**: The API returns a list of 50 drives with their status (Normal or Anomalous).
 
+## Features
+
+Test the interface: [Predictive Maintenance Simulation](https://github.com/Piiii31/Predictive_Maintenance_Simulation)
+
 ## Requirements
 
 - Python 3.x
@@ -30,7 +34,6 @@ This repository contains a Flask-based API that simulates predictive maintenance
    git clone https://github.com/yourusername/Predictive_Maintenance_Simulation_API.git
    cd Predictive_Maintenance_Simulation_API
    ```
-
 
 
 2. Download the pre-trained model weights and place them in the `Weights` directory.
