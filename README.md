@@ -31,7 +31,7 @@ Test the interface: [Predictive Maintenance Simulation](https://github.com/Piiii
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Predictive_Maintenance_Simulation_API.git
+   git clone https://github.com/Piiii31/Predictive_Maintenance_Simulation_API.git
    cd Predictive_Maintenance_Simulation_API
    ```
 
