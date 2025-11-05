@@ -1,0 +1,6 @@
+- **Flask API**: The API is built using Flask and supports CORS for cross-origin requests.
+- **LSTM Autoencoder**: The model uses an LSTM-based autoencoder to detect anomalies in hard drive data.
+- **Backblaze Drive Stats Dataset**: The dataset is loaded based on the specified year and quarter.
+- **Preprocessing**: The data is preprocessed to remove missing values and standardize features.
+- **Anomaly Detection**: The API identifies normal and anomalous drives based on the reconstruction error from the autoencoder.
+- **Output**: The API returns a list of 50 drives with their status (Normal or Anomalous).

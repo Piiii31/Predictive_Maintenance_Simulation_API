@@ -1,0 +1,6 @@
+{
+  "backend": ["Flask","Flask-CORS","Python"],
+  "others": ["Pandas","NumPy","Scikit-learn","TensorFlow","Datasets"]
+}
+
+

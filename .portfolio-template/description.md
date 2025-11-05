@@ -1,0 +1,1 @@
+This repository contains a Flask-based API that simulates predictive maintenance for hard drives using an **LSTM autoencoder model**. The API loads hard drive data from Backblaze's Drive Stats dataset, preprocesses it, and uses a pre-trained LSTM autoencoder to identify normal and anomalous drives.
